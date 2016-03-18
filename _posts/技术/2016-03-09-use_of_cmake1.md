@@ -2,7 +2,7 @@
 layout: post
 title: cmake使用示例与整理总结
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

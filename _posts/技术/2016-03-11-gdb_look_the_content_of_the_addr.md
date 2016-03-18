@@ -2,7 +2,7 @@
 layout: post
 title: GDB 查看指定地址的内容
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

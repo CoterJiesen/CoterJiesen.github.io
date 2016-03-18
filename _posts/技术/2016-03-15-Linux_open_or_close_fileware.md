@@ -2,7 +2,7 @@
 layout: post
 title: Linux防火墙的关闭和开启
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

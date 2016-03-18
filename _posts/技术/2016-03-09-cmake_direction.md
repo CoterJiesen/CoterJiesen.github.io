@@ -2,7 +2,7 @@
 layout: post
 title: Cmake使用指南
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

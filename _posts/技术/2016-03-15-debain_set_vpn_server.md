@@ -2,7 +2,7 @@
 layout: post
 title: Debian配置为VPN服务器
 category: 技术
-tags: CPP;Linux;VPS
+tags: CPP Linux VPS
 keywords: 
 description: 
 ---

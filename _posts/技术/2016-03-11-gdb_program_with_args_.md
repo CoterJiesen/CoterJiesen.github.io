@@ -2,7 +2,7 @@
 layout: post
 title: gdb调试带参数程序
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

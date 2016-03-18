@@ -2,7 +2,7 @@
 layout: post
 title: windows迁移linux问题集锦
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

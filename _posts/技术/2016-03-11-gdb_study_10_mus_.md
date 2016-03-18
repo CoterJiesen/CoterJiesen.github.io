@@ -2,7 +2,7 @@
 layout: post
 title: GDB十分钟教程 
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

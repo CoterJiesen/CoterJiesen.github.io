@@ -2,7 +2,7 @@
 layout: post
 title: Centos查看端口占用情况和开启端口命令
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

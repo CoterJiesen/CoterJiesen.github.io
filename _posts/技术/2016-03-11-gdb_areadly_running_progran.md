@@ -2,7 +2,7 @@
 layout: post
 title: 使用gdb调试当前运行的程序
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---

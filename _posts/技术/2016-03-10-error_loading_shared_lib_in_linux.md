@@ -2,7 +2,7 @@
 layout: post
 title: error while loading shared libraries的解決方法
 category: 技术
-tags: CPP;Linux;VPS
+tags: CPP Linux VPS
 keywords: 
 description: 
 ---

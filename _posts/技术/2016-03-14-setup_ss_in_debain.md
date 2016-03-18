@@ -2,7 +2,7 @@
 layout: post
 title: 在debian系统的vps上搭建shadowsocks-libev
 category: 技术
-tags: CPP;Linux
+tags: CPP Linux
 keywords: 
 description: 
 ---
