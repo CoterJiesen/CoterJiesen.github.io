@@ -7,7 +7,7 @@ gems: [jekyll-paginate]
 author: 
   name: 冷血誓言
   email: 438653638@qq.com
- # link: CoterJiesen.github.io
+  link: CoterJiesen.github.io
   weibo: http://weibo.com/438653638
   github: http://github.com/CoterJiesen
 
@@ -17,7 +17,7 @@ author:
 title: 冷血誓言的博客
 description: My personal blog
 url: CoterJiesen.github.io
-rss_url: /pages/atom.xml
+rss_url: atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/img/headphto.png
