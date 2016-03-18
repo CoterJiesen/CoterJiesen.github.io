@@ -5,16 +5,16 @@ layout: null
 <rss version="2.0">
   <channel>
     <title>{{ site.title }}</title>
-    <link>{{ post.url }}</link>
+    <link>{{ site.url }}</link>
     <description>{{ site.description }}</description>
     {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title }}</title>
-        <link>{{ post.url }}</link>
-        <guid isPermaLink="true">{{ post.url }}</guid>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <description>{{ post.content | xml_escape }}</description>
       </item>
     {% endfor %}
   </channel>
-</rss>
+</rs

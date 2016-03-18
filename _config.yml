@@ -7,7 +7,7 @@ gems: [jekyll-paginate]
 author: 
   name: 冷血誓言
   email: 438653638@qq.com
-  link: CoterJiesen.github.io
+ # link: CoterJiesen.github.io
   weibo: http://weibo.com/438653638
   github: http://github.com/CoterJiesen
 
